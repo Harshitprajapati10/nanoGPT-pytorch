@@ -1,5 +1,5 @@
 # NanoGPT-PyTorch  
-*A minimal, educational implementation of Bigram LM, Self-Attention, and Transformer models trained on Tiny Shakespeare.*
+*A implementation of Bigram LM, Self-Attention, and Transformer models trained on Tiny Shakespeare.*
 
 ---
 
